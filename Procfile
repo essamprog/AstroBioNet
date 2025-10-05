@@ -1,1 +1,1 @@
-web: gunicorn public.astro_agent.server:app
+web: python3 public/astro_agent/server.py
