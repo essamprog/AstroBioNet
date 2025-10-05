@@ -1,0 +1,2 @@
+*.sqlite3 filter=lfs diff=lfs merge=lfs -text
+public/astro_agent/my_vector_db/* filter=lfs diff=lfs merge=lfs -text
